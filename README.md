@@ -3,7 +3,7 @@
 >Welcome to the Pokémon Search App! This app allows you to easily search for information about your favorite Pokémon.
 
 ## Demo 📸
-[live Demo](https://nooria150.github.io/pokemon-search-app/)
+[live Demo]( https://nooria150.github.io/pokemon-search-app/ )
 ![live](/images/Capture5.PNG)
 
 ## Technologies Used 🛠️
